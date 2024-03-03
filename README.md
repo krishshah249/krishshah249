@@ -6,7 +6,7 @@
 <h4 align="center">I am a skilled professional associated with many US based multi-national clients.I Specialize in crafting sophisticated backend web solutions using Java, Spring, Jenkins, Sonarqube and end-to-end development and integration of cutting-edge technologies, with a focus on Azure/AWS cloud infrastructure and enhancing automation and quality assurance. Additionally, I am exploring advanced realms of artificial intelligence, machine learning, and cloud computing.</h4>
 <br>
 <p align="center"> 
-  <a href="/Documents/resume"><img src="https://img.shields.io/badge/Resume-9775c2?style=for-the-badge"></a>
+  <a href="/Documents/resume.pdf"><img src="https://img.shields.io/badge/Resume-9775c2?style=for-the-badge"></a>
 </p>
 <hr/>
 <p align="center">
