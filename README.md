@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Krish Shah </h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=71a5fd&center=true&vCenter=true&width=500&lines=PG+ML+AI+Cloud+Computing+@+George+Brown"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=71a5fd&center=true&vCenter=true&width=500&lines=PG+in+ML+AI+Cloud+Computing+@+George+Brown"></a>
 </p>
 <hr/>
 <h4 align="center">I am a skilled professional associated with many US based multi-national clients.I Specialize in crafting sophisticated backend web solutions using Java, Spring, Jenkins, Sonarqube and end-to-end development and integration of cutting-edge technologies, with a focus on Azure/AWS cloud infrastructure and enhancing automation and quality assurance. Additionally, I am exploring advanced realms of artificial intelligence, machine learning, and cloud computing.</h4>
 <br>
 <p align="center"> 
-  <a href="Documents/resume"><img src="https://img.shields.io/badge/Resume-9775c2?style=for-the-badge"></a>
+  <a href="/Documents/resume"><img src="https://img.shields.io/badge/Resume-9775c2?style=for-the-badge"></a>
 </p>
 <hr/>
 <p align="center">
@@ -72,10 +72,6 @@
   <a>
     <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon AWS-FF9900?style=for-the-badge&logo=Amazon+AWS&logoColor=white">
   </a>
-</p>
-<hr/>
-<p align="center">
-  <a href="https://github.com/krishshah249"><img src="https://activity-graph.herokuapp.com/graph?username=krishshah249&custom_title=Krish%20Shah's%20Contribution%20Graph&bg_color=1a1b27&color=70a4fc&line=be91f2&point=4c4c54"/></a>
 </p>
 <hr/>
 <h3 align="center">Connect with me</h3>
